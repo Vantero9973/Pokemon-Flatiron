@@ -1,0 +1,3465 @@
+{
+    "pokemon": [
+        {
+            "name": "Treecko",
+            "id": 252,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+            "background": "https://wallpapercave.com/wp/wp2021093.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Wood Gecko Pokémon",
+            "height": 0.5,
+            "weight": 5,
+            "abilities": {
+                "one": "Overgrow",
+                "two": "Unburden"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 35,
+                "special_attack": 65,
+                "special_defense": 55,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Grovyle",
+            "id": 253,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+            "background": "https://wallpapercave.com/wp/wp2684568.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Wood Gecko Pokémon",
+            "height": 0.9,
+            "weight": 21.6,
+            "abilities": {
+                "one": "Overgrow",
+                "two": "Unburden"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 65,
+                "defense": 45,
+                "special_attack": 85,
+                "special_defense": 65,
+                "speed": 95
+            }
+        },
+        {
+            "name": "Sceptile",
+            "id": 254,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+            "background": "https://wallpapercave.com/wp/wp10672908.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Forest Pokémon",
+            "height": 1.7,
+            "weight": 52.2,
+            "abilities": {
+                "one": "Overgrow",
+                "two": "Unburden"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 65,
+                "special_attack": 105,
+                "special_defense": 85,
+                "speed": 120
+            }
+        },
+        {
+            "name": "Torchic",
+            "id": 255,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+            "background": "https://pokemongohub.net/wp-content/uploads/2022/03/255torchic1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png"
+            },
+            "species": "Chick Pokémon",
+            "height": 0.4,
+            "weight": 2.5,
+            "abilities": {
+                "one": "Blaze",
+                "two": "Speed Boost"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 60,
+                "defense": 40,
+                "special_attack": 70,
+                "special_defense": 50,
+                "speed": 45
+            }
+        },
+        {
+            "name": "Combusken",
+            "id": 256,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/12/256combusken1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png",
+                "typeTwo": "https://i.imgur.com/L6G6dBa.png"
+            },
+            "species": "Young Fowl Pokémon",
+            "height": 0.9,
+            "weight": 19.5,
+            "abilities": {
+                "one": "Blaze",
+                "two": "Speed Boost"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 60,
+                "special_attack": 85,
+                "special_defense": 60,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Blaziken",
+            "id": 257,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+            "background": "https://i.pinimg.com/originals/03/89/08/0389081edbc0a1eaa64e063e9784f4cf.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png",
+                "typeTwo": "https://i.imgur.com/L6G6dBa.png"
+            },
+            "species": "Blaze Pokémon",
+            "height": 1.9,
+            "weight": 52,
+            "abilities": {
+                "one": "Blaze",
+                "two": "Speed Boost"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 120,
+                "defense": 70,
+                "special_attack": 110,
+                "special_defense": 70,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Mudkip",
+            "id": 258,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+            "background": "https://wallpapercave.com/wp/wp1866091.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Mud Fish Pokémon",
+            "height": 0.4,
+            "weight": 7.6,
+            "abilities": {
+                "one": "Torrent",
+                "two": "Damp"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 50,
+                "special_attack": 50,
+                "special_defense": 50,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Marshtomp",
+            "id": 259,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+            "background": "https://wallpapercave.com/wp/wp2690481.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Mud Fish Pokémon",
+            "height": 0.7,
+            "weight": 28,
+            "abilities": {
+                "one": "Torrent",
+                "two": "Damp"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 70,
+                "special_attack": 60,
+                "special_defense": 70,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Swampert",
+            "id": 260,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+            "background": "https://wallpaperaccess.com/full/1658986.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Mud Fish Pokémon",
+            "height": 1.5,
+            "weight": 81.9,
+            "abilities": {
+                "one": "Torrent",
+                "two": "Damp"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 110,
+                "defense": 90,
+                "special_attack": 85,
+                "special_defense": 90,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Poochyena",
+            "id": 261,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+            "background": "https://wallpapercave.com/wp/wp2691786.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Bite Pokémon",
+            "height": 0.5,
+            "weight": 13.6,
+            "abilities": {
+                "one": "Run Away",
+                "two": "Quick Feet"
+            },
+            "stats": {
+                "hp": 35,
+                "attack": 55,
+                "defense": 35,
+                "special_attack": 30,
+                "special_defense": 30,
+                "speed": 35
+            }
+        },
+        {
+            "name": "Mightyena",
+            "id": 262,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+            "background": "https://wallpapercave.com/wp/wp2691860.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Bite Pokémon",
+            "height": 1,
+            "weight": 37,
+            "abilities": {
+                "one": "Intimidate",
+                "two": "Quick Feet"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 90,
+                "defense": 70,
+                "special_attack": 60,
+                "special_defense": 60,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Zigzagoon",
+            "id": 263,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/10/263zigzagoon1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "TinyRaccoon Pokémon",
+            "height": 0.4,
+            "weight": 17.5,
+            "abilities": {
+                "one": "Pickup",
+                "two": "Gluttony"
+            },
+            "stats": {
+                "hp": 38,
+                "attack": 30,
+                "defense": 41,
+                "special_attack": 30,
+                "special_defense": 41,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Linoone",
+            "id": 264,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+            "background": "https://wallpapercave.com/wp/wp2814718.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Rushing Pokémon",
+            "height": 0.5,
+            "weight": 32.5,
+            "abilities": {
+                "one": "Pickup",
+                "two": "Gluttony"
+            },
+            "stats": {
+                "hp": 78,
+                "attack": 70,
+                "defense": 61,
+                "special_attack": 50,
+                "special_defense": 61,
+                "speed": 100
+            }
+        },
+        {
+            "name": "Wurmple",
+            "id": 265,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+            "background": "https://wallpapercave.com/wp/wp2814752.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Worm Pokémon",
+            "height": 0.3,
+            "weight": 3.6,
+            "abilities": {
+                "one": "Shield Dust",
+                "two": "Run Away"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 45,
+                "defense": 35,
+                "special_attack": 20,
+                "special_defense": 30,
+                "speed": 20
+            }
+        },
+        {
+            "name": "Silcoon",
+            "id": 266,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+            "background": "https://wallpapercave.com/wp/wp3024833.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Cocoon Pokémon",
+            "height": 0.6,
+            "weight": 10,
+            "abilities": {
+                "one": "Shed Skin"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 35,
+                "defense": 55,
+                "special_attack": 25,
+                "special_defense": 25,
+                "speed": 15
+            }
+        },
+        {
+            "name": "Beautifly",
+            "id": 267,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+            "background": "https://wallpapercave.com/wp/wp3024840.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Butterfly Pokémon",
+            "height": 1,
+            "weight": 28.4,
+            "abilities": {
+                "one": "Swarm",
+                "two": "Rivalry"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 70,
+                "defense": 50,
+                "special_attack": 100,
+                "special_defense": 50,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Cascoon",
+            "id": 268,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+            "background": "https://images3.alphacoders.com/125/125937.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Cocoon Pokémon",
+            "height": 0.7,
+            "weight": 11.5,
+            "abilities": {
+                "one": "Shed Skin"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 35,
+                "defense": 55,
+                "special_attack": 25,
+                "special_defense": 25,
+                "speed": 15
+            }
+        },
+        {
+            "name": "Dustox",
+            "id": 269,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/10/269dustox1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/jjyVFCI.png"
+            },
+            "species": "Poison Moth Pokémon",
+            "height": 1.2,
+            "weight": 31.6,
+            "abilities": {
+                "one": "Shield Dust",
+                "two": "Compound Eyes"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 70,
+                "special_attack": 50,
+                "special_defense": 90,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Lotad",
+            "id": 270,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+            "background": "https://wallpapercave.com/wp/wp3028869.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Water Weed Pokémon",
+            "height": 0.5,
+            "weight": 2.6,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Rain Dish"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 30,
+                "special_attack": 40,
+                "special_defense": 50,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Lombre",
+            "id": 271,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+            "background": "https://wallpapercave.com/wp/wp3028887.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Jolly Pokémon",
+            "height": 1.2,
+            "weight": 32.5,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Rain Dish"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 50,
+                "special_attack": 60,
+                "special_defense": 70,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Ludicolo",
+            "id": 272,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+            "background": "https://wallpapercave.com/wp/wp3030431.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Carefree Pokémon",
+            "height": 1.5,
+            "weight": 55,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Rain Dish"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 70,
+                "defense": 70,
+                "special_attack": 90,
+                "special_defense": 100,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Seedot",
+            "id": 273,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+            "background": "https://wallpapercave.com/wp/wp3030440.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Acorn Pokémon",
+            "height": 0.5,
+            "weight": 4,
+            "abilities": {
+                "one": "Chlorophyll",
+                "two": "Early Bird"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 50,
+                "special_attack": 30,
+                "special_defense": 30,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Nuzleaf",
+            "id": 274,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+            "background": "https://wallpapercave.com/wp/wp3030455.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Wily Pokémon",
+            "height": 1,
+            "weight": 28,
+            "abilities": {
+                "one": "Chlorophyll",
+                "two": "Early Bird"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 40,
+                "special_attack": 60,
+                "special_defense": 40,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Shiftry",
+            "id": 275,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+            "background": "https://wallpapercave.com/wp/wp3049670.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Wicked Pokémon",
+            "height": 1.3,
+            "weight": 59.6,
+            "abilities": {
+                "one": "Chlorophyll",
+                "two": "Early Bird"
+            },
+            "stats": {
+                "hp": 90,
+                "attack": 100,
+                "defense": 60,
+                "special_attack": 90,
+                "special_defense": 60,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Tailow",
+            "id": 276,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+            "background": "https://wallpapercave.com/wp/wp3049661.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "TinySwallow Pokémon",
+            "height": 0.3,
+            "weight": 2.3,
+            "abilities": {
+                "one": "Guts",
+                "two": "Scrappy"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 55,
+                "defense": 30,
+                "special_attack": 30,
+                "special_defense": 30,
+                "speed": 85
+            }
+        },
+        {
+            "name": "Swellow",
+            "id": 277,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+            "background": "https://wallpapercave.com/wp/wp3049708.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Swallow Pokémon",
+            "height": 0.7,
+            "weight": 19.8,
+            "abilities": {
+                "one": "Guts",
+                "two": "Scrappy"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 85,
+                "defense": 60,
+                "special_attack": 75,
+                "special_defense": 50,
+                "speed": 125
+            }
+        },
+        {
+            "name": "Wingull",
+            "id": 278,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+            "background": "https://img1.goodfon.com/wallpaper/nbig/2/fb/wingull-pokemon-pokemon-obraz.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Seagull Pokémon",
+            "height": 0.6,
+            "weight": 9.5,
+            "abilities": {
+                "one": "Keen Eye",
+                "two": "Hydration"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 30,
+                "special_attack": 55,
+                "special_defense": 30,
+                "speed": 85
+            }
+        },
+        {
+            "name": "Pelipper",
+            "id": 279,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+            "background": "https://wallpapercave.com/wp/wp3052326.png",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Water Bird Pokémon",
+            "height": 1.2,
+            "weight": 28,
+            "abilities": {
+                "one": "Keen Eye",
+                "two": "Drizzle"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 100,
+                "special_attack": 95,
+                "special_defense": 70,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Ralts",
+            "id": 280,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+            "background": "https://wallpapercave.com/wp/wp3052342.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png",
+                "typeTwo": "https://i.imgur.com/LibrtDn.png"
+            },
+            "species": "Feeling Pokémon",
+            "height": 0.4,
+            "weight": 6.6,
+            "abilities": {
+                "one": "Synchronize",
+                "two": "Trace"
+            },
+            "stats": {
+                "hp": 28,
+                "attack": 25,
+                "defense": 25,
+                "special_attack": 45,
+                "special_defense": 35,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Kirlia",
+            "id": 281,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+            "background": "https://wallpapercave.com/wp/wp3054161.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png",
+                "typeTwo": "https://i.imgur.com/LibrtDn.png"
+            },
+            "species": "Emotion Pokémon",
+            "height": 0.8,
+            "weight": 20.2,
+            "abilities": {
+                "one": "Synchronize",
+                "two": "Trace"
+            },
+            "stats": {
+                "hp": 38,
+                "attack": 35,
+                "defense": 35,
+                "special_attack": 65,
+                "special_defense": 55,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Gardevoir",
+            "id": 282,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+            "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5309d791-2e8a-4774-99f1-e9ee83f9f427/def67p2-7af7f78c-d85f-425e-8d8e-073e3ddd8cde.png/v1/fill/w_1280,h_720,q_80,strp/gardevoir_pokemon_minimalist_wallpaper_by_djraspberry1999_def67p2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTMwOWQ3OTEtMmU4YS00Nzc0LTk5ZjEtZTllZTgzZjlmNDI3XC9kZWY2N3AyLTdhZjdmNzhjLWQ4NWYtNDI1ZS04ZDhlLTA3M2UzZGRkOGNkZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.maphnv14isUE_N2NA8y9fUOwzzJ2l6XWOJPwUHaoHQE",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png",
+                "typeTwo": "https://i.imgur.com/LibrtDn.png"
+            },
+            "species": "Embrace Pokémon",
+            "height": 1.6,
+            "weight": 48.4,
+            "abilities": {
+                "one": "Synchronize",
+                "two": "Trace"
+            },
+            "stats": {
+                "hp": 68,
+                "attack": 65,
+                "defense": 65,
+                "special_attack": 125,
+                "special_defense": 115,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Surskit",
+            "id": 283,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/03/283surskit1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Pond Skater Pokémon",
+            "height": 0.5,
+            "weight": 1.7,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Rain Dish"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 30,
+                "defense": 32,
+                "special_attack": 50,
+                "special_defense": 52,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Masquerain",
+            "id": 284,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+            "background": "https://wallpapercave.com/wp/wp3055901.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Eyeball Pokémon",
+            "height": 0.8,
+            "weight": 3.6,
+            "abilities": {
+                "one": "Intimidate",
+                "two": "Unnerve"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 60,
+                "defense": 62,
+                "special_attack": 100,
+                "special_defense": 82,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Shroomish",
+            "id": 285,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+            "background": "https://wallpapercave.com/wp/wp3055937.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Mushroom Pokémon",
+            "height": 0.4,
+            "weight": 4.5,
+            "abilities": {
+                "one": "Effect Spore",
+                "two": "Poison Heal"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 60,
+                "special_attack": 40,
+                "special_defense": 60,
+                "speed": 35
+            }
+        },
+        {
+            "name": "Breloom",
+            "id": 286,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+            "background": "https://wallpapercave.com/wp/wp2430133.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/L6G6dBa.png"
+            },
+            "species": "Mushroom Pokémon",
+            "height": 1.2,
+            "weight": 39.2,
+            "abilities": {
+                "one": "Effect Spore",
+                "two": "Poison Heal"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 130,
+                "defense": 80,
+                "special_attack": 60,
+                "special_defense": 60,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Slakoth",
+            "id": 287,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+            "background": "https://wallpapercave.com/wp/wp3058815.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Slacker Pokémon",
+            "height": 0.8,
+            "weight": 24,
+            "abilities": {
+                "one": "Truant"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 60,
+                "special_attack": 35,
+                "special_defense": 35,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Vigoroth",
+            "id": 288,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+            "background": "https://images3.alphacoders.com/125/125947.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Wild Monkey Pokémon",
+            "height": 1.4,
+            "weight": 46.5,
+            "abilities": {
+                "one": "Vital Spirit"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 80,
+                "special_attack": 55,
+                "special_defense": 55,
+                "speed": 90
+            }
+        },
+        {
+            "name": "Slaking",
+            "id": 289,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+            "background": "https://images2.alphacoders.com/125/125960.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Lazy Pokémon",
+            "height": 2,
+            "weight": 130.5,
+            "abilities": {
+                "one": "Truant"
+            },
+            "stats": {
+                "hp": 150,
+                "attack": 160,
+                "defense": 100,
+                "special_attack": 95,
+                "special_defense": 65,
+                "speed": 100
+            }
+        },
+        {
+            "name": "Nincada",
+            "id": 290,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+            "background": "https://images4.alphacoders.com/126/126016.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Trainee Pokémon",
+            "height": 0.5,
+            "weight": 5.5,
+            "abilities": {
+                "one": "Compound Eyes",
+                "two": "Run Away"
+            },
+            "stats": {
+                "hp": 31,
+                "attack": 45,
+                "defense": 90,
+                "special_attack": 30,
+                "special_defense": 30,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Ninjask",
+            "id": 291,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+            "background": "https://wallpapercave.com/wp/wp3060737.png",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Ninja Pokémon",
+            "height": 0.8,
+            "weight": 12,
+            "abilities": {
+                "one": "Speed Boost",
+                "two": "Infiltrator"
+            },
+            "stats": {
+                "hp": 61,
+                "attack": 90,
+                "defense": 45,
+                "special_attack": 50,
+                "special_defense": 50,
+                "speed": 160
+            }
+        },
+        {
+            "name": "Shedinja",
+            "id": 292,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+            "background": "https://wallpapercave.com/wp/wp3060788.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png",
+                "typeTwo": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Shed Pokémon",
+            "height": 0.8,
+            "weight": 1.2,
+            "abilities": {
+                "one": "Wonder Guard"
+            },
+            "stats": {
+                "hp": 1,
+                "attack": 90,
+                "defense": 45,
+                "special_attack": 30,
+                "special_defense": 30,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Whismur",
+            "id": 293,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+            "background": "https://wallpapercave.com/wp/wp3062005.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Whisper Pokémon",
+            "height": 0.6,
+            "weight": 16.3,
+            "abilities": {
+                "one": "Soundproof",
+                "two": "Rattled"
+            },
+            "stats": {
+                "hp": 64,
+                "attack": 51,
+                "defense": 23,
+                "special_attack": 51,
+                "special_defense": 23,
+                "speed": 28
+            }
+        },
+        {
+            "name": "Loudred",
+            "id": 294,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+            "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5079b204-466e-4144-a006-3daec06673f0/deu2r0z-908ca8f3-c4e9-4c03-8201-a2ec90b21803.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwNzliMjA0LTQ2NmUtNDE0NC1hMDA2LTNkYWVjMDY2NzNmMFwvZGV1MnIwei05MDhjYThmMy1jNGU5LTRjMDMtODIwMS1hMmVjOTBiMjE4MDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ie-lLZoWs3t8iOAxJyVlVivvBfe53Ida6I7s1JGmu6U",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Big Voice Pokémon",
+            "height": 1,
+            "weight": 40.5,
+            "abilities": {
+                "one": "Soundproof",
+                "two": "Scrappy"
+            },
+            "stats": {
+                "hp": 84,
+                "attack": 71,
+                "defense": 43,
+                "special_attack": 71,
+                "special_defense": 43,
+                "speed": 48
+            }
+        },
+        {
+            "name": "Exploud",
+            "id": 295,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+            "background": "https://wallpapercave.com/wp/wp2537893.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Loud Noise Pokémon",
+            "height": 1.5,
+            "weight": 84,
+            "abilities": {
+                "one": "Soundproof",
+                "two": "Scrappy"
+            },
+            "stats": {
+                "hp": 104,
+                "attack": 91,
+                "defense": 63,
+                "special_attack": 91,
+                "special_defense": 73,
+                "speed": 68
+            }
+        },
+        {
+            "name": "Makuhita",
+            "id": 296,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/03/296makuhita1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/L6G6dBa.png"
+            },
+            "species": "Guts Pokémon",
+            "height": 1,
+            "weight": 86.4,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Guts"
+            },
+            "stats": {
+                "hp": 72,
+                "attack": 60,
+                "defense": 30,
+                "special_attack": 20,
+                "special_defense": 30,
+                "speed": 25
+            }
+        },
+        {
+            "name": "Hariyama",
+            "id": 297,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+            "background": "https://images4.alphacoders.com/125/125956.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/L6G6dBa.png"
+            },
+            "species": "Arm Thrust Pokémon",
+            "height": 2.3,
+            "weight": 253.8,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Guts"
+            },
+            "stats": {
+                "hp": 144,
+                "attack": 120,
+                "defense": 60,
+                "special_attack": 40,
+                "special_defense": 60,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Azurill",
+            "id": 298,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+            "background": "https://wallpapercave.com/wp/wp3064008.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png",
+                "typeTwo": "https://i.imgur.com/LibrtDn.png"
+            },
+            "species": "Polka Dot Pokémon",
+            "height": 0.2,
+            "weight": 2,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Huge Power"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 20,
+                "defense": 40,
+                "special_attack": 20,
+                "special_defense": 40,
+                "speed": 20
+            }
+        },
+        {
+            "name": "Nosepass",
+            "id": 299,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+            "background": "https://wallpapercave.com/wp/wp3065992.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Compass Pokémon",
+            "height": 1,
+            "weight": 97,
+            "abilities": {
+                "one": "Sturdy",
+                "two": "Magnet Pull"
+            },
+            "stats": {
+                "hp": 30,
+                "attack": 45,
+                "defense": 135,
+                "special_attack": 45,
+                "special_defense": 90,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Skitty",
+            "id": 300,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+            "background": "https://wallpapercave.com/wp/wp3065998.png",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Kitten Pokémon",
+            "height": 0.6,
+            "weight": 11,
+            "abilities": {
+                "one": "Cute Charm",
+                "two": "Normalize"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 45,
+                "defense": 45,
+                "special_attack": 35,
+                "special_defense": 35,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Delcatty",
+            "id": 301,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+            "background": "https://wallpapercave.com/wp/wp3066009.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Prim Pokémon",
+            "height": 1.1,
+            "weight": 32.6,
+            "abilities": {
+                "one": "Cute Charm",
+                "two": "Normalize"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 65,
+                "defense": 65,
+                "special_attack": 55,
+                "special_defense": 55,
+                "speed": 90
+            }
+        },
+        {
+            "name": "Sableye",
+            "id": 302,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/02/302sableye1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/IncRkB0.png",
+                "typeTwo": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Darkness Pokémon",
+            "height": 0.5,
+            "weight": 11,
+            "abilities": {
+                "one": "Keen Eye",
+                "two": "Stall"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 75,
+                "defense": 75,
+                "special_attack": 65,
+                "special_defense": 65,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Mawile",
+            "id": 303,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png",
+            "background": "https://wallpapercave.com/wp/wp3067901.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/LibrtDn.png"
+            },
+            "species": "Deceiver Pokémon",
+            "height": 0.6,
+            "weight": 0.6,
+            "abilities": {
+                "one": "Hyper Cutter",
+                "two": "Intimidate"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 85,
+                "special_attack": 55,
+                "special_defense": 55,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Aron",
+            "id": 304,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/08/304aron1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Iron Armor Pokémon",
+            "height": 0.4,
+            "weight": 60,
+            "abilities": {
+                "one": "Sturdy",
+                "two": "Rock Head"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 100,
+                "special_attack": 40,
+                "special_defense": 40,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Lairon",
+            "id": 305,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png",
+            "background": "https://wallpapercave.com/wp/wp3069933.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Iron Armor Pokémon",
+            "height": 0.9,
+            "weight": 120,
+            "abilities": {
+                "one": "Sturdy",
+                "two": "Rock Head"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 90,
+                "defense": 140,
+                "special_attack": 50,
+                "special_defense": 50,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Aggron",
+            "id": 306,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png",
+            "background": "https://pokemongohub.net/wp-content/uploads/2022/09/megaaggron1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Iron Armor Pokémon",
+            "height": 2.1,
+            "weight": 360,
+            "abilities": {
+                "one": "Sturdy",
+                "two": "Rock Head"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 110,
+                "defense": 180,
+                "special_attack": 60,
+                "special_defense": 60,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Meditite",
+            "id": 307,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/10/307meditite1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/L6G6dBa.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Meditate Pokémon",
+            "height": 0.6,
+            "weight": 11.2,
+            "abilities": {
+                "one": "Pure Power",
+                "two": "Telepathy"
+            },
+            "stats": {
+                "hp": 30,
+                "attack": 40,
+                "defense": 55,
+                "special_attack": 40,
+                "special_defense": 55,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Medicham",
+            "id": 308,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/02/308medicham1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/L6G6dBa.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Meditate Pokémon",
+            "height": 1.3,
+            "weight": 31.5,
+            "abilities": {
+                "one": "Pure Power",
+                "two": "Telepathy"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 75,
+                "special_attack": 60,
+                "special_defense": 75,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Electrike",
+            "id": 309,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png",
+            "background": "https://wallpapercave.com/wp/wp3071978.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/eUgSGHc.png"
+            },
+            "species": "Lightning Pokémon",
+            "height": 0.6,
+            "weight": 15.2,
+            "abilities": {
+                "one": "Static",
+                "two": "Lightning Rod"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 45,
+                "defense": 40,
+                "special_attack": 65,
+                "special_defense": 40,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Manectric",
+            "id": 310,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png",
+            "background": "https://wallpapercave.com/wp/wp3071986.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/eUgSGHc.png"
+            },
+            "species": "Discharge Pokémon",
+            "height": 1.5,
+            "weight": 40.2,
+            "abilities": {
+                "one": "Static",
+                "two": "Lightning Rod"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 75,
+                "defense": 60,
+                "special_attack": 105,
+                "special_defense": 60,
+                "speed": 105
+            }
+        },
+        {
+            "name": "Plusle",
+            "id": 311,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png",
+            "background": "https://wallpapercave.com/wp/wp3073880.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/eUgSGHc.png"
+            },
+            "species": "Cheering Pokémon",
+            "height": 0.4,
+            "weight": 4.2,
+            "abilities": {
+                "one": "Plus",
+                "two": "Lightning Rod"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 50,
+                "defense": 40,
+                "special_attack": 85,
+                "special_defense": 75,
+                "speed": 95
+            }
+        },
+        {
+            "name": "Minun",
+            "id": 312,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png",
+            "background": "https://wallpapercave.com/wp/wp3073883.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/eUgSGHc.png"
+            },
+            "species": "Cheering Pokémon",
+            "height": 0.4,
+            "weight": 4.2,
+            "abilities": {
+                "one": "Minus",
+                "two": "Volt Absorb"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 40,
+                "defense": 50,
+                "special_attack": 75,
+                "special_defense": 85,
+                "speed": 95
+            }
+        },
+        {
+            "name": "Volbeat",
+            "id": 313,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/05/313volbeat1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Firefly Pokémon",
+            "height": 0.7,
+            "weight": 17.7,
+            "abilities": {
+                "one": "Illuminate",
+                "two": "Swarm"
+            },
+            "stats": {
+                "hp": 65,
+                "attack": 73,
+                "defense": 75,
+                "special_attack": 47,
+                "special_defense": 85,
+                "speed": 85
+            }
+        },
+        {
+            "name": "Illumise",
+            "id": 314,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png",
+            "background": "https://wallpapercave.com/wp/wp3076119.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Firefly Pokémon",
+            "height": 0.6,
+            "weight": 17.7,
+            "abilities": {
+                "one": "Oblivious",
+                "two": "Tinted Lense"
+            },
+            "stats": {
+                "hp": 65,
+                "attack": 47,
+                "defense": 75,
+                "special_attack": 73,
+                "special_defense": 85,
+                "speed": 85
+            }
+        },
+        {
+            "name": "Roselia",
+            "id": 315,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png",
+            "background": "https://wallpapercave.com/wp/wp3076127.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/jjyVFCI.png"
+            },
+            "species": "Thorn Pokémon",
+            "height": 0.3,
+            "weight": 2,
+            "abilities": {
+                "one": "Natural Cure",
+                "two": "Poison Point"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 60,
+                "defense": 45,
+                "special_attack": 100,
+                "special_defense": 80,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Gulpin",
+            "id": 316,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/04/316gulpin1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/jjyVFCI.png"
+            },
+            "species": "Stomach Pokémon",
+            "height": 0.4,
+            "weight": 10.3,
+            "abilities": {
+                "one": "Liquid Ooze",
+                "two": "Sticky Hold"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 43,
+                "defense": 53,
+                "special_attack": 43,
+                "special_defense": 53,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Swalot",
+            "id": 317,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png",
+            "background": "https://wallpapercave.com/wp/wp3078438.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/jjyVFCI.png"
+            },
+            "species": "Poison Bag Pokémon",
+            "height": 1.7,
+            "weight": 80,
+            "abilities": {
+                "one": "Liquid Ooze",
+                "two": "Sticky Hold"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 73,
+                "defense": 83,
+                "special_attack": 73,
+                "special_defense": 83,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Carvanha",
+            "id": 318,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png",
+            "background": "https://wallpapercave.com/wp/wp3078444.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Savage Pokémon",
+            "height": 0.8,
+            "weight": 20.8,
+            "abilities": {
+                "one": "Rough Skin",
+                "two": "Speed Boost"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 90,
+                "defense": 20,
+                "special_attack": 65,
+                "special_defense": 20,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Sharpedo",
+            "id": 319,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png",
+            "background": "https://wallpapercave.com/wp/wp2510366.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Brutal Pokémon",
+            "height": 1.8,
+            "weight": 88.8,
+            "abilities": {
+                "one": "Rough Skin",
+                "two": "Speed Boost"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 120,
+                "defense": 40,
+                "special_attack": 95,
+                "special_defense": 40,
+                "speed": 95
+            }
+        },
+        {
+            "name": "Wailmer",
+            "id": 320,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/05/320wailmer1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Ball Whale Pokémon",
+            "height": 2,
+            "weight": 130,
+            "abilities": {
+                "one": "Water Veil",
+                "two": "Oblivious"
+            },
+            "stats": {
+                "hp": 130,
+                "attack": 70,
+                "defense": 35,
+                "special_attack": 70,
+                "special_defense": 35,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Wailord",
+            "id": 321,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png",
+            "background": "https://wallpapercave.com/wp/wp3081159.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Float Whale Pokémon",
+            "height": 14.5,
+            "weight": 398,
+            "abilities": {
+                "one": "Water Veil",
+                "two": "Oblivious"
+            },
+            "stats": {
+                "hp": 170,
+                "attack": 90,
+                "defense": 45,
+                "special_attack": 90,
+                "special_defense": 45,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Numel",
+            "id": 322,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/12/322numel1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Numb Pokémon",
+            "height": 0.7,
+            "weight": 24,
+            "abilities": {
+                "one": "Oblivious",
+                "two": "Simple"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 40,
+                "special_attack": 65,
+                "special_defense": 45,
+                "speed": 35
+            }
+        },
+        {
+            "name": "Camerupt",
+            "id": 323,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png",
+            "background": "https://wallpapercave.com/wp/wp3082544.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Eruption Pokémon",
+            "height": 1.9,
+            "weight": 220,
+            "abilities": {
+                "one": "Magma Armor",
+                "two": "Solid Rock"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 100,
+                "defense": 70,
+                "special_attack": 105,
+                "special_defense": 75,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Torkoal",
+            "id": 324,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+            "background": "https://wallpapercave.com/wp/wp3082548.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/xJDGf6I.png"
+            },
+            "species": "Coal Pokémon",
+            "height": 0.5,
+            "weight": 80.4,
+            "abilities": {
+                "one": "White Smoke",
+                "two": "Drought"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 85,
+                "defense": 140,
+                "special_attack": 85,
+                "special_defense": 70,
+                "speed": 20
+            }
+        },
+        {
+            "name": "Spoink",
+            "id": 325,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png",
+            "background": "https://wallpapercave.com/wp/wp3082551.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Bounce Pokémon",
+            "height": 0.7,
+            "weight": 30.6,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Own Tempo"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 25,
+                "defense": 35,
+                "special_attack": 70,
+                "special_defense": 80,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Grumpig",
+            "id": 326,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png",
+            "background": "https://wallpapercave.com/wp/wp3084094.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Manipulate Pokémon",
+            "height": 0.9,
+            "weight": 71.5,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Own Tempo"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 45,
+                "defense": 65,
+                "special_attack": 90,
+                "special_defense": 110,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Spinda",
+            "id": 327,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png",
+            "background": "https://wallpapercave.com/wp/wp3081286.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Spot Panda Pokémon",
+            "height": 1.1,
+            "weight": 5,
+            "abilities": {
+                "one": "Own Tempo",
+                "two": "Tangled Feet"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 60,
+                "defense": 60,
+                "special_attack": 60,
+                "special_defense": 60,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Trapinch",
+            "id": 328,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+            "background": "https://images2.alphacoders.com/126/126032.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Ant Pit Pokémon",
+            "height": 0.7,
+            "weight": 15,
+            "abilities": {
+                "one": "Hyper Cutter",
+                "two": "Arena Trap"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 100,
+                "defense": 45,
+                "special_attack": 45,
+                "special_defense": 45,
+                "speed": 10
+            }
+        },
+        {
+            "name": "Vibrava",
+            "id": 329,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png",
+            "background": "https://wallpapercave.com/wp/wp3084129.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png",
+                "typeTwo": "https://i.imgur.com/tkCVdAj.png"
+            },
+            "species": "Vibration Pokémon",
+            "height": 1.1,
+            "weight": 15.3,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 70,
+                "defense": 50,
+                "special_attack": 50,
+                "special_defense": 50,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Flygon",
+            "id": 330,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/06/330flygon1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png",
+                "typeTwo": "https://i.imgur.com/tkCVdAj.png"
+            },
+            "species": "Mystic Pokémon",
+            "height": 2,
+            "weight": 82,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 80,
+                "special_attack": 80,
+                "special_defense": 80,
+                "speed": 100
+            }
+        },
+        {
+            "name": "Cacnea",
+            "id": 331,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png",
+            "background": "https://wallpapercave.com/wp/wp3085865.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Cactus Pokémon",
+            "height": 0.4,
+            "weight": 51.3,
+            "abilities": {
+                "one": "Sand Veil",
+                "two": "Water Absorb"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 85,
+                "defense": 40,
+                "special_attack": 85,
+                "special_defense": 40,
+                "speed": 35
+            }
+        },
+        {
+            "name": "Cacturne",
+            "id": 332,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png",
+            "background": "https://wallpapercave.com/wp/wp3087448.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Scarecrow Pokémon",
+            "height": 1.3,
+            "weight": 77.4,
+            "abilities": {
+                "one": "Sand Veil",
+                "two": "Water Absorb"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 115,
+                "defense": 60,
+                "special_attack": 115,
+                "special_defense": 60,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Swablu",
+            "id": 333,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png",
+            "background": "https://wallpapercave.com/wp/wp3087450.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Cotton Bird Pokémon",
+            "height": 0.4,
+            "weight": 1.2,
+            "abilities": {
+                "one": "Natural Cure",
+                "two": "Cloud Nine"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 40,
+                "defense": 60,
+                "special_attack": 40,
+                "special_defense": 75,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Altaria",
+            "id": 334,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png",
+            "background": "https://wallpapercave.com/wp/wp3081265.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Humming Pokémon",
+            "height": 1.1,
+            "weight": 20.6,
+            "abilities": {
+                "one": "Natural Cure",
+                "two": "Cloud Nine"
+            },
+            "stats": {
+                "hp": 75,
+                "attack": 70,
+                "defense": 90,
+                "special_attack": 70,
+                "special_defense": 105,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Zangoose",
+            "id": 335,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/08/335zangoose1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Cat Ferret Pokémon",
+            "height": 1.3,
+            "weight": 40.3,
+            "abilities": {
+                "one": "Immunity",
+                "two": "Toxic Boost"
+            },
+            "stats": {
+                "hp": 73,
+                "attack": 115,
+                "defense": 60,
+                "special_attack": 60,
+                "special_defense": 60,
+                "speed": 90
+            }
+        },
+        {
+            "name": "Seviper",
+            "id": 336,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
+            "background": "https://wallpapercave.com/wp/wp3089278.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/jjyVFCI.png"
+            },
+            "species": "Fang Snake Pokémon",
+            "height": 2.7,
+            "weight": 52.5,
+            "abilities": {
+                "one": "Shed Skin",
+                "two": "Infiltrator"
+            },
+            "stats": {
+                "hp": 73,
+                "attack": 100,
+                "defense": 60,
+                "special_attack": 100,
+                "special_defense": 60,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Lunatone",
+            "id": 337,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png",
+            "background": "https://wallpapercave.com/wp/wp3089284.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Meteorite Pokémon",
+            "height": 1,
+            "weight": 168,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 90,
+                "attack": 55,
+                "defense": 65,
+                "special_attack": 95,
+                "special_defense": 85,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Solrock",
+            "id": 338,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png",
+            "background": "https://cdn.wallpapersafari.com/90/33/8ETzmo.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Meteorite Pokémon",
+            "height": 1.2,
+            "weight": 154,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 90,
+                "attack": 95,
+                "defense": 85,
+                "special_attack": 55,
+                "special_defense": 65,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Barboach",
+            "id": 339,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png",
+            "background": "https://wallpapercave.com/wp/wp3090669.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Whiskers Pokémon",
+            "height": 0.4,
+            "weight": 1.9,
+            "abilities": {
+                "one": "Oblivious",
+                "two": "Anticipation"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 48,
+                "defense": 43,
+                "special_attack": 46,
+                "special_defense": 41,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Whiscash",
+            "id": 340,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/09/340whiscash1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Whiskers Pokémon",
+            "height": 0.9,
+            "weight": 23.6,
+            "abilities": {
+                "one": "Oblivious",
+                "two": "Anticipation"
+            },
+            "stats": {
+                "hp": 110,
+                "attack": 78,
+                "defense": 73,
+                "special_attack": 76,
+                "special_defense": 71,
+                "speed": 60
+            }
+        },
+        {
+            "name": "Corphish",
+            "id": 341,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/02/341corphish1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Ruffian Pokémon",
+            "height": 0.6,
+            "weight": 11.5,
+            "abilities": {
+                "one": "Hyper Cutter",
+                "two": "Shell Armor"
+            },
+            "stats": {
+                "hp": 43,
+                "attack": 80,
+                "defense": 65,
+                "special_attack": 50,
+                "special_defense": 35,
+                "speed": 35
+            }
+        },
+        {
+            "name": "Crawdaunt",
+            "id": 342,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png",
+            "background": "https://pokewalls.files.wordpress.com/2013/02/342crawdaunt1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Rogue Pokémon",
+            "height": 1.1,
+            "weight": 32.8,
+            "abilities": {
+                "one": "Hyper Cutter",
+                "two": "Shell Armor"
+            },
+            "stats": {
+                "hp": 63,
+                "attack": 120,
+                "defense": 85,
+                "special_attack": 90,
+                "special_defense": 55,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Baltoy",
+            "id": 343,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png",
+            "background": "https://images.alphacoders.com/125/125953.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Clay Doll Pokémon",
+            "height": 0.5,
+            "weight": 21.5,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 40,
+                "defense": 55,
+                "special_attack": 40,
+                "special_defense": 70,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Claydol",
+            "id": 344,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/02/344claydol1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Clay Doll Pokémon",
+            "height": 1.5,
+            "weight": 108,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 70,
+                "defense": 105,
+                "special_attack": 70,
+                "special_defense": 120,
+                "speed": 75
+            }
+        },
+        {
+            "name": "Lileep",
+            "id": 345,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/02/345lileep1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Sea Lily Pokémon",
+            "height": 1,
+            "weight": 23.8,
+            "abilities": {
+                "one": "Suction Cups",
+                "two": "Storm Drain"
+            },
+            "stats": {
+                "hp": 66,
+                "attack": 41,
+                "defense": 77,
+                "special_attack": 61,
+                "special_defense": 87,
+                "speed": 23
+            }
+        },
+        {
+            "name": "Cradily",
+            "id": 346,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/09/346cradily1600x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/znpXv4B.png"
+            },
+            "species": "Barnacle Pokémon",
+            "height": 1.5,
+            "weight": 60.4,
+            "abilities": {
+                "one": "Suction Cups",
+                "two": "Storm Drain"
+            },
+            "stats": {
+                "hp": 86,
+                "attack": 81,
+                "defense": 97,
+                "special_attack": 81,
+                "special_defense": 107,
+                "speed": 43
+            }
+        },
+        {
+            "name": "Anorith",
+            "id": 347,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/06/347anorith1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Old Shrimp Pokémon",
+            "height": 0.7,
+            "weight": 12.5,
+            "abilities": {
+                "one": "Battle Armor",
+                "two": "Swift Swim"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 95,
+                "defense": 50,
+                "special_attack": 40,
+                "special_defense": 50,
+                "speed": 75
+            }
+        },
+        {
+            "name": "Armaldo",
+            "id": 348,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/02/348armaldo1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png",
+                "typeTwo": "https://i.imgur.com/VcOLNbf.png"
+            },
+            "species": "Plate Pokémon",
+            "height": 1.5,
+            "weight": 68.2,
+            "abilities": {
+                "one": "Battle Armor",
+                "two": "Swift Swim"
+            },
+            "stats": {
+                "hp": 75,
+                "attack": 125,
+                "defense": 100,
+                "special_attack": 70,
+                "special_defense": 80,
+                "speed": 45
+            }
+        },
+        {
+            "name": "Feebas",
+            "id": 349,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png",
+            "background": "https://images.alphacoders.com/125/125921.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Fish Pokémon",
+            "height": 0.6,
+            "weight": 7.4,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Oblivious"
+            },
+            "stats": {
+                "hp": 20,
+                "attack": 15,
+                "defense": 20,
+                "special_attack": 10,
+                "special_defense": 55,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Milotic",
+            "id": 350,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/08/350milotic1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Tender Pokémon",
+            "height": 6.2,
+            "weight": 162,
+            "abilities": {
+                "one": "Marvel Scale",
+                "two": "Competitive"
+            },
+            "stats": {
+                "hp": 95,
+                "attack": 60,
+                "defense": 79,
+                "special_attack": 100,
+                "special_defense": 125,
+                "speed": 81
+            }
+        },
+        {
+            "name": "Castform",
+            "id": 351,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png",
+            "background": "https://wallpapercave.com/wp/wp3098327.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Weather Pokémon",
+            "height": 0.3,
+            "weight": 0.8,
+            "abilities": {
+                "one": "Forecast"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 70,
+                "defense": 70,
+                "special_attack": 70,
+                "special_defense": 70,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Kecleon",
+            "id": 352,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png",
+            "background": "https://wallpapercave.com/wp/wp3098335.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/nBERXtL.png"
+            },
+            "species": "Color Swap Pokémon",
+            "height": 1,
+            "weight": 22,
+            "abilities": {
+                "one": "Color Change",
+                "two": "Protean"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 90,
+                "defense": 70,
+                "special_attack": 60,
+                "special_defense": 120,
+                "speed": 40
+            }
+        },
+        {
+            "name": "Shuppet",
+            "id": 353,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png",
+            "background": "https://wallpapercave.com/wp/wp3100249.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Puppet Pokémon",
+            "height": 0.6,
+            "weight": 2.3,
+            "abilities": {
+                "one": "Insomnia",
+                "two": "Frisk"
+            },
+            "stats": {
+                "hp": 44,
+                "attack": 75,
+                "defense": 35,
+                "special_attack": 63,
+                "special_defense": 33,
+                "speed": 45
+            }
+        },
+        {
+            "name": "Banette",
+            "id": 354,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png",
+            "background": "https://pokemongohub.net/wp-content/uploads/2021/10/Banette.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Marionette Pokémon",
+            "height": 1.1,
+            "weight": 12.5,
+            "abilities": {
+                "one": "Insomnia",
+                "two": "Frisk"
+            },
+            "stats": {
+                "hp": 64,
+                "attack": 115,
+                "defense": 65,
+                "special_attack": 83,
+                "special_defense": 63,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Duskull",
+            "id": 355,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png",
+            "background": "https://wallpapercave.com/wp/wp3100135.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Requiem Pokémon",
+            "height": 0.8,
+            "weight": 15,
+            "abilities": {
+                "one": "Levitate",
+                "two": "Frisk"
+            },
+            "stats": {
+                "hp": 20,
+                "attack": 40,
+                "defense": 90,
+                "special_attack": 30,
+                "special_defense": 90,
+                "speed": 25
+            }
+        },
+        {
+            "name": "Dusclops",
+            "id": 356,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png",
+            "background": "https://images3.alphacoders.com/125/125999.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/dlNnPik.png"
+            },
+            "species": "Beckon Pokémon",
+            "height": 1.6,
+            "weight": 30.6,
+            "abilities": {
+                "one": "Pressure",
+                "two": "Frisk"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 70,
+                "defense": 130,
+                "special_attack": 60,
+                "special_defense": 130,
+                "speed": 25
+            }
+        },
+        {
+            "name": "Tropius",
+            "id": 357,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png",
+            "background": "https://wallpapercave.com/wp/wp3101869.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/znpXv4B.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Fruit Pokémon",
+            "height": 2,
+            "weight": 100,
+            "abilities": {
+                "one": "Chlorophyll",
+                "two": "Solar Power"
+            },
+            "stats": {
+                "hp": 99,
+                "attack": 68,
+                "defense": 83,
+                "special_attack": 72,
+                "special_defense": 87,
+                "speed": 51
+            }
+        },
+        {
+            "name": "Chimecho",
+            "id": 358,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png",
+            "background": "https://wallpapercave.com/wp/wp3062062.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Wind Chime Pokémon",
+            "height": 0.6,
+            "weight": 1,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 75,
+                "attack": 50,
+                "defense": 80,
+                "special_attack": 95,
+                "special_defense": 90,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Absol",
+            "id": 359,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png",
+            "background": "https://wallpapercave.com/wp/wp3103914.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/IncRkB0.png"
+            },
+            "species": "Disaster Pokémon",
+            "height": 1.2,
+            "weight": 47,
+            "abilities": {
+                "one": "Pressure",
+                "two": "Super Luck"
+            },
+            "stats": {
+                "hp": 65,
+                "attack": 130,
+                "defense": 60,
+                "special_attack": 75,
+                "special_defense": 60,
+                "speed": 75
+            }
+        },
+        {
+            "name": "Wynaut",
+            "id": 360,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png",
+            "background": "https://wallpapercave.com/wp/wp3103915.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Bright Pokémon",
+            "height": 0.6,
+            "weight": 14,
+            "abilities": {
+                "one": "Shadow Tag",
+                "two": "Telepathy"
+            },
+            "stats": {
+                "hp": 95,
+                "attack": 23,
+                "defense": 48,
+                "special_attack": 23,
+                "special_defense": 48,
+                "speed": 23
+            }
+        },
+        {
+            "name": "Snorunt",
+            "id": 361,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+            "background": "https://images3.alphacoders.com/125/125995.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png"
+            },
+            "species": "Snow Hat Pokémon",
+            "height": 0.7,
+            "weight": 16.8,
+            "abilities": {
+                "one": "Inner Focus",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 50,
+                "defense": 50,
+                "special_attack": 50,
+                "special_defense": 50,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Glalie",
+            "id": 362,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png",
+            "background": "https://wallpapercave.com/wp/wp3105712.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png"
+            },
+            "species": "Face Pokémon",
+            "height": 1.5,
+            "weight": 256.5,
+            "abilities": {
+                "one": "Inner Focus",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 80,
+                "special_attack": 80,
+                "special_defense": 80,
+                "speed": 80
+            }
+        },
+        {
+            "name": "Spheal",
+            "id": 363,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png",
+            "background": "https://wallpapercave.com/wp/wp3105715.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png",
+                "typeTwo": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Clap Pokémon",
+            "height": 0.8,
+            "weight": 39.5,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 70,
+                "attack": 40,
+                "defense": 50,
+                "special_attack": 55,
+                "special_defense": 50,
+                "speed": 25
+            }
+        },
+        {
+            "name": "Sealeo",
+            "id": 364,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png",
+            "background": "https://wallpapercave.com/wp/wp3105724.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png",
+                "typeTwo": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Ball Roll Pokémon",
+            "height": 1.1,
+            "weight": 87.6,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 90,
+                "attack": 60,
+                "defense": 70,
+                "special_attack": 75,
+                "special_defense": 70,
+                "speed": 45
+            }
+        },
+        {
+            "name": "Walrein",
+            "id": 365,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png",
+            "background": "https://wallpapercave.com/wp/wp3105783.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png",
+                "typeTwo": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Ice Break Pokémon",
+            "height": 1.4,
+            "weight": 150.6,
+            "abilities": {
+                "one": "Thick Fat",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 110,
+                "attack": 80,
+                "defense": 90,
+                "special_attack": 95,
+                "special_defense": 90,
+                "speed": 65
+            }
+        },
+        {
+            "name": "Clamperl",
+            "id": 366,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png",
+            "background": "https://wallpapercave.com/wp/wp3107593.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Bivalve Pokémon",
+            "height": 0.4,
+            "weight": 52.5,
+            "abilities": {
+                "one": "Shell Armor",
+                "two": "Rattled"
+            },
+            "stats": {
+                "hp": 35,
+                "attack": 64,
+                "defense": 85,
+                "special_attack": 74,
+                "special_defense": 55,
+                "speed": 32
+            }
+        },
+        {
+            "name": "Huntail",
+            "id": 367,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png",
+            "background": "https://wallpapercave.com/wp/wp3107579.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Deep Sea Pokémon",
+            "height": 1.7,
+            "weight": 27,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Water Veil"
+            },
+            "stats": {
+                "hp": 55,
+                "attack": 104,
+                "defense": 105,
+                "special_attack": 94,
+                "special_defense": 75,
+                "speed": 52
+            }
+        },
+        {
+            "name": "Gorebyss",
+            "id": 368,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png",
+            "background": "https://images4.alphacoders.com/125/125988.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "South Sea Pokémon",
+            "height": 1.8,
+            "weight": 22.6,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Hydration"
+            },
+            "stats": {
+                "hp": 55,
+                "attack": 84,
+                "defense": 105,
+                "special_attack": 114,
+                "special_defense": 75,
+                "speed": 52
+            }
+        },
+        {
+            "name": "Relicanth",
+            "id": 369,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/05/369relicanth1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png",
+                "typeTwo": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Longevity Pokémon",
+            "height": 1,
+            "weight": 23.4,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Rock Head"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 90,
+                "defense": 130,
+                "special_attack": 45,
+                "special_defense": 65,
+                "speed": 55
+            }
+        },
+        {
+            "name": "Luvdisc",
+            "id": 370,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png",
+            "background": "https://images.alphacoders.com/126/126051.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Rendezvous Pokémon",
+            "height": 0.6,
+            "weight": 8.7,
+            "abilities": {
+                "one": "Swift Swim",
+                "two": "Hydration"
+            },
+            "stats": {
+                "hp": 43,
+                "attack": 30,
+                "defense": 55,
+                "special_attack": 40,
+                "special_defense": 65,
+                "speed": 97
+            }
+        },
+        {
+            "name": "Bagon",
+            "id": 371,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+            "background": "https://wallpapercave.com/wp/wp3111087.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png"
+            },
+            "species": "Rock Head Pokémon",
+            "height": 0.6,
+            "weight": 42.1,
+            "abilities": {
+                "one": "Rock Head",
+                "two": "Sheer Force"
+            },
+            "stats": {
+                "hp": 45,
+                "attack": 75,
+                "defense": 60,
+                "special_attack": 40,
+                "special_defense": 30,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Shelgon",
+            "id": 372,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png",
+            "background": "https://images2.alphacoders.com/126/126092.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png"
+            },
+            "species": "Endurance Pokémon",
+            "height": 1.1,
+            "weight": 110.5,
+            "abilities": {
+                "one": "Rock Head",
+                "two": "Overcoat"
+            },
+            "stats": {
+                "hp": 65,
+                "attack": 95,
+                "defense": 100,
+                "special_attack": 60,
+                "special_defense": 50,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Salamence",
+            "id": 373,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+            "background": "https://wallpaperaccess.com/full/509315.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png"
+            },
+            "species": "Dragon Pokémon",
+            "height": 1.5,
+            "weight": 102.6,
+            "abilities": {
+                "one": "Intimidate",
+                "two": "Moxie"
+            },
+            "stats": {
+                "hp": 95,
+                "attack": 135,
+                "defense": 80,
+                "special_attack": 110,
+                "special_defense": 80,
+                "speed": 100
+            }
+        },
+        {
+            "name": "Beldum",
+            "id": 374,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/07/374beldum1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Iron Ball Pokémon",
+            "height": 0.6,
+            "weight": 95.2,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Light Metal"
+            },
+            "stats": {
+                "hp": 40,
+                "attack": 55,
+                "defense": 80,
+                "special_attack": 35,
+                "special_defense": 60,
+                "speed": 30
+            }
+        },
+        {
+            "name": "Metang",
+            "id": 375,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png",
+            "background": "https://pokewalls.files.wordpress.com/2013/03/375metang1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Iron Claw Pokémon",
+            "height": 1.2,
+            "weight": 202.5,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Light Metal"
+            },
+            "stats": {
+                "hp": 60,
+                "attack": 75,
+                "defense": 100,
+                "special_attack": 55,
+                "special_defense": 80,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Metagross",
+            "id": 376,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+            "background": "https://wallpapercave.com/wp/wp1980741.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Iron Leg Pokémon",
+            "height": 1.6,
+            "weight": 550,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Light Metal"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 135,
+                "defense": 130,
+                "special_attack": 95,
+                "special_defense": 90,
+                "speed": 70
+            }
+        },
+        {
+            "name": "Regirock",
+            "id": 377,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+            "background": "https://wallpapercave.com/wp/wp3116598.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/35bWh03.png"
+            },
+            "species": "Rock Peak Pokémon",
+            "height": 1.7,
+            "weight": 230,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Sturdy"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 100,
+                "defense": 200,
+                "special_attack": 50,
+                "special_defense": 100,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Regice",
+            "id": 378,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/05/378regice1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/kXtfhb6.png"
+            },
+            "species": "Iceberg Pokémon",
+            "height": 1.8,
+            "weight": 175,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Ice Body"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 50,
+                "defense": 100,
+                "special_attack": 100,
+                "special_defense": 200,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Registeel",
+            "id": 379,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+            "background": "https://wallpapercave.com/wp/wp3116619.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png"
+            },
+            "species": "Iron Pokémon",
+            "height": 1.9,
+            "weight": 205,
+            "abilities": {
+                "one": "Clear Body",
+                "two": "Light Metal"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 75,
+                "defense": 150,
+                "special_attack": 75,
+                "special_defense": 150,
+                "speed": 50
+            }
+        },
+        {
+            "name": "Latias",
+            "id": 380,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/01/380latias1920x10801.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Eon Pokémon",
+            "height": 1.4,
+            "weight": 40,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 80,
+                "defense": 90,
+                "special_attack": 110,
+                "special_defense": 130,
+                "speed": 110
+            }
+        },
+        {
+            "name": "Latios",
+            "id": 381,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+            "background": "https://wallpaperset.com/w/full/1/c/1/208482.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Eon Pokémon",
+            "height": 2,
+            "weight": 60,
+            "abilities": {
+                "one": "Levitate"
+            },
+            "stats": {
+                "hp": 80,
+                "attack": 90,
+                "defense": 80,
+                "special_attack": 130,
+                "special_defense": 110,
+                "speed": 110
+            }
+        },
+        {
+            "name": "Kyogre",
+            "id": 382,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+            "background": "https://wallpapercave.com/wp/AwAfdDa.png",
+            "type": {
+                "typeOne": "https://i.imgur.com/igZtGEs.png"
+            },
+            "species": "Sea Basin Pokémon",
+            "height": 4.5,
+            "weight": 352,
+            "abilities": {
+                "one": "Drizzle"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 90,
+                "special_attack": 150,
+                "special_defense": 140,
+                "speed": 90
+            }
+        },
+        {
+            "name": "Groudon",
+            "id": 383,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+            "background": "https://pokewalls.files.wordpress.com/2014/11/primalgroudon1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/Du7uqX3.png"
+            },
+            "species": "Continent Pokémon",
+            "height": 3.5,
+            "weight": 950,
+            "abilities": {
+                "one": "Drought"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 150,
+                "defense": 140,
+                "special_attack": 100,
+                "special_defense": 90,
+                "speed": 90
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "id": 384,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/10/384rayquaza1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/tkCVdAj.png",
+                "typeTwo": "https://i.imgur.com/VaOP7kP.png"
+            },
+            "species": "Sky High Pokémon",
+            "height": 7,
+            "weight": 206.5,
+            "abilities": {
+                "one": "Air Lock"
+            },
+            "stats": {
+                "hp": 105,
+                "attack": 150,
+                "defense": 90,
+                "special_attack": 150,
+                "special_defense": 90,
+                "speed": 95
+            }
+        },
+        {
+            "name": "Jirachi",
+            "id": 385,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+            "background": "https://pokewalls.files.wordpress.com/2011/07/385jirachi1920x1200.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/JcCWPAs.png",
+                "typeTwo": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "Wish Pokémon",
+            "height": 0.3,
+            "weight": 1.1,
+            "abilities": {
+                "one": "Serene Grace"
+            },
+            "stats": {
+                "hp": 100,
+                "attack": 100,
+                "defense": 100,
+                "special_attack": 100,
+                "special_defense": 100,
+                "speed": 100
+            }
+        },
+        {
+            "name": "Deoxys",
+            "id": 386,
+            "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
+            "background": "https://pokewalls.files.wordpress.com/2012/12/386deoxys-a1920x1080.jpg",
+            "type": {
+                "typeOne": "https://i.imgur.com/0pzZcMR.png"
+            },
+            "species": "DNA Pokémon",
+            "height": 1.7,
+            "weight": 60.8,
+            "abilities": {
+                "one": "Pressure"
+            },
+            "stats": {
+                "hp": 50,
+                "attack": 150,
+                "defense": 50,
+                "special_attack": 150,
+                "special_defense": 50,
+                "speed": 150
+            }
+        }
+    ],
+    "orders": [
+        {
+            "cart": [
+                {
+                    "name": "Shroomish",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+                    "price": 945.0824652665268
+                },
+                {
+                    "name": "Breloom",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+                    "price": 757.158398725132
+                },
+                {
+                    "name": "Swampert",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+                    "price": 785.3273121561662
+                }
+            ],
+            "id": 1
+        },
+        {
+            "cart": [
+                {
+                    "name": "Sceptile",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+                    "price": 664.4675627425231
+                },
+                {
+                    "name": "Torchic",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+                    "price": 445.2597653684869
+                },
+                {
+                    "name": "Combusken",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+                    "price": 330.4811192138315
+                },
+                {
+                    "name": "Blaziken",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+                    "price": 388.3245317552766
+                }
+            ],
+            "id": 2
+        },
+        {
+            "cart": [
+                {
+                    "name": "Swampert",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+                    "price": 221.70265644239007
+                },
+                {
+                    "name": "Shroomish",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+                    "price": 62.969664246532496
+                },
+                {
+                    "name": "Rayquaza",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+                    "price": 569.4452194011028
+                },
+                {
+                    "name": "Groudon",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+                    "price": 52.82110551343799
+                },
+                {
+                    "name": "Kyogre",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+                    "price": 158.4065802446526
+                },
+                {
+                    "name": "Latios",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+                    "price": 968.7367467991617
+                },
+                {
+                    "name": "Latias",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+                    "price": 300.593921684839
+                },
+                {
+                    "name": "Registeel",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+                    "price": 806.5927575518825
+                },
+                {
+                    "name": "Regice",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+                    "price": 892.5196411783988
+                },
+                {
+                    "name": "Regirock",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+                    "price": 1.2659031528221565
+                }
+            ],
+            "id": 3
+        },
+        {
+            "cart": [
+                {
+                    "name": "Deoxys",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
+                    "price": 161.96291896249647
+                },
+                {
+                    "name": "Jirachi",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+                    "price": 706.9321918001937
+                },
+                {
+                    "name": "Rayquaza",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+                    "price": 883.1103442283768
+                },
+                {
+                    "name": "Groudon",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+                    "price": 569.5908960390979
+                },
+                {
+                    "name": "Kyogre",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+                    "price": 548.5997949248556
+                },
+                {
+                    "name": "Latios",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png",
+                    "price": 829.059575503474
+                },
+                {
+                    "name": "Latias",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png",
+                    "price": 286.216028517507
+                },
+                {
+                    "name": "Registeel",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png",
+                    "price": 381.93225708945187
+                },
+                {
+                    "name": "Regice",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png",
+                    "price": 271.98236302420287
+                },
+                {
+                    "name": "Regirock",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png",
+                    "price": 451.99088371614704
+                }
+            ],
+            "id": 4
+        },
+        {
+            "cart": [
+                {
+                    "name": "Treecko",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+                    "price": 494.2906692312932
+                },
+                {
+                    "name": "Grovyle",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+                    "price": 351.4294058399032
+                },
+                {
+                    "name": "Sceptile",
+                    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+                    "price": 872.3580800803603
+                }
+            ],
+            "id": 5
+        }
+    ]
+}

@@ -1,38 +1,256 @@
-.App {
+@import url('http://fonts.cdnfonts.com/css/pokemon-solid');
+
+.pokemonCard {
+  float: left;
+  padding: 2.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.pokemonNameData {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.bigDiv {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.tableBorder {
+  border: solid;
+  width: 100%;
+  height: 100%;
+  ;
+}
+
+.pokemonData {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  object-fit: cover;
+  margin-top: 200px;
+}
+
+.cardDataBackground {
+  background: rgba(0, 0, 0, 0.65);
+  width: 31%;
+  height: 70%;
+  text-align: center;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-right: 50%;
+  margin-bottom: 10vw;
   color: white;
+  border: solid;
+  border-color: white;
+  padding: 0.25em;
 }
 
-.App-link {
-  color: #61dafb;
+.imageRow {
+  height: 5%;
+  padding: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.table_data {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.typeOne,
+.typeTwo {
+  height: 25px;
+  max-width: 75px;
+}
+
+.imrunningoutofnames {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.helloworld {
+  margin-top: 30px;
+}
+
+.typeURL {
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 1%;
+  margin-right: 2%;
+}
+
+.typeURL2 {
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 1%;
+  margin-left: 2%;
+}
+
+.pokemonNumber {
+  color: gray;
+  margin: 0;
+}
+
+.trOne {
+  font-size: 1.5vw;
+  color: gray;
+}
+
+.orderHistory {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 15px;
+}
+
+.trTwo {
+  font-size: 1vw;
+}
+
+.theme {
+  width: 90%;
+  display: flex;
+  margin: auto;
+}
+
+.pokemonName,
+.pokemonLink {
+  float: left;
+  margin: 15px;
+  margin-top: 25px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+
+.pokemonName {
+  width: 100px;
+  height: 10px;
+}
+
+.purchaseButton {
+  margin: 15px;
+}
+
+.pokedexTitle,
+.shopTitle {
+  text-align: center;
+  align-items: center;
+  font-family: 'Pokemon Solid', sans-serif;
+  font-size: 50px;
+  margin-top: 1%;
+  color: rgb(255, 224, 47);
+  -webkit-text-stroke: 3.5px rgb(36, 36, 211);
+}
+
+.navBar {
+  background-color: #333;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.navBar ul {
+  background-color: #333;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.helloworld {
+  height: 100%;
+  width: 100%
+}
+
+.navBar a {
+  color: rgb(255, 224, 47);
+  -webkit-text-stroke: 1.5px rgb(36, 36, 211);
+  align-items: center;
+  gap: 2rem;
+  padding: 0 1rem;
+  text-decoration: none;
+}
+
+.pokemon-form {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.addNew {
+  margin-top: 40px;
+}
+
+.logo {
+  height: 80px;
+  width: 120px;
+}
+
+.siteTitle {
+  font-size: 2.25rem;
+  font-family: 'Pokemon Solid', sans-serif;
+  color: rgb(255, 224, 47);
+  -webkit-text-stroke: 2.5px rgb(36, 36, 211);
+}
+
+.pokeDexLink,
+.shopLink {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-size: 25px;
+  font-family: 'Pokemon Solid', sans-serif;
+}
+
+.ui-search {
+  text-align: center;
+}
+
+.sortButton,
+.sortButtonReverse,
+.sortButtonById,
+.sortButtonByType {
+  margin: 5px;
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.dropdownMenu {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.sortAllButtons {
+  text-align: center;
+  justify-content: space-between;
+  margin-top: 10px;
 }
