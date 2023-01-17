@@ -26,10 +26,8 @@
 }
 
 .tableBorder {
-  border: solid;
   width: 100%;
   height: 100%;
-  ;
 }
 
 .pokemonData {
@@ -51,9 +49,7 @@
   margin-right: 50%;
   margin-bottom: 10vw;
   color: white;
-  border: solid;
-  border-color: white;
-  padding: 0.25em;
+
 }
 
 .imageRow {
