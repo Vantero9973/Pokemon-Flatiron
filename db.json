@@ -3500,6 +3500,36 @@
         }
       ],
       "id": 7
+    },
+    {
+      "cart": [
+        {
+          "name": "Torchic",
+          "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+          "price": 833.9534007429777
+        },
+        {
+          "name": "Armaldo",
+          "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png",
+          "price": 973.8778246200806
+        },
+        {
+          "name": "Aron",
+          "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png",
+          "price": 685.5558831707709
+        },
+        {
+          "name": "Anorith",
+          "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+          "price": 918.7910248971427
+        },
+        {
+          "name": "Anorith",
+          "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png",
+          "price": 609.7749288590218
+        }
+      ],
+      "id": 8
     }
   ]
 }
