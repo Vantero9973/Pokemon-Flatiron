@@ -18,14 +18,14 @@ function App() {
   const [lastOrder, setLastOrder] = useState();
 
   useEffect(() => {
-    fetch("http://localhost:5005/pokemon")
+    fetch("/api/pokemon")
       .then((res) => res.json())
       .then((data) => {
         setPokemons(data);
         setShop(data);
       });
 
-    fetch("http://localhost:5005/orders")
+    fetch("/api/orders")
       .then((res) => res.json())
       .then((orders) => {
         setLastOrder(orders[orders.length - 1]);

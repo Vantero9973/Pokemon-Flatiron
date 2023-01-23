@@ -7,7 +7,7 @@ function PokemonDataCollection({ pokemons }) {
   const { id } = useParams();
 
   useEffect(() => {
-    fetch(`http://localhost:5005/pokemon/${id}`)
+    fetch(`/api/pokemon/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setPokeDetails(data);
